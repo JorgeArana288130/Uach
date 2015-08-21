@@ -1,0 +1,40 @@
+17/08/2015 		       Comandos basicos linux terminal
+
+sudo -- privilegios de admin
+apt-get -- busqueda paquetes
+update -- busca paquetes disponibles
+upgrade -- aplica los paquetes disponibles
+ls -- List 
+pwd -- mostrar carpeta actual
+-a -- show all
+-h -- human
+-l -- lista
+man -- manual(Help)
+
+18/08/15
+
+mkdir "" -- crear directorio(carpeta)
+rmdir "" -- borrar directorio
+mv "direccion original"/"direccion nueva" -- renombrar y/o mover directorio/archivo
+. -- directorio actual
+touch -- crear archivo
+rm -- borrar archivo
+nano -- editor de texto
+cd -- cambiar directorio
+
+					Github
+
+git -- listado de opciones
+	Configuracion global
+git config --global user.name "username"  
+git config --global user.email "email" 
+git config --global color.ui true (verde cuando estan listos)
+		Comandos Basicos
+git init -- inicializar repositorio (directorio actual(Solo se ejecuta un a vez por proyecto))
+git status -- ver estado de repositorio
+git add <file> -- agregar archivo a repositorio
+git rm <file> -- remover archivo del repositorio
+git commit -- crear punto de control
+git log -- bitacora de cambios
+
+				
