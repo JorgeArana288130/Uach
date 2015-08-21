@@ -1,0 +1,32 @@
+								Lenguaje y Comunicacion
+
+Contraseña plataforma: UN200boys
+
+08/21/2015
+
+Traer impresa antologia plataforma.
+
+Pagina uno antologia
+
+Comunicacion: Proceso en el cual se transmite un mensaje.
+
+Receptor-Emisor-Mensaje-Canal-Codigo.
+
+Ruido: Es una alteracion en el proceso de comunicacion que impide o dificulta la misma.
+
+	a) Tu mejor amigo te llama por telefono y te dice que el sabado celebrara su cumpleaños.
+	b) Un medico escribe una receta de antibiotico para un paciente.
+	c) Contestas a las preguntas de un examen oral de ingles.
+	d) Recibes una carta en la que te comunican que has obtenido la beca escolar que solicitaste.
+
+Emisor a) mejor amigo b) medico c) yo d) escuela
+
+Receptor a) yo b) paciente c) maestro d) yo
+
+Mensaje a) Invitacion b) receta de antibiotico c) respuesta examen oral d) se obtuvo la beca
+
+Canal a) oral b) escrito c) oral d) escrito
+
+Codigo a) palabras, idioma b) escritura, idioma c) palabras orales, ingles d) escritura, idioma
+
+	e) Le escribes a tu madre una nota y se la dejas encima de su mesa de trabajo.
