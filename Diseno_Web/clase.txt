@@ -41,3 +41,47 @@ git log -- bitacora de cambios
 				
 				    World Wide Web
 
+1945 -- Vannever Bush
+	Memex.- Dispositivo foto-electro-mecanico idealizado para la 
+		extension.
+1960 -- Doug Engelbart
+	oNLine Systems.- Permite la navegacion, su edicion, correo 
+	electronico y mucho mas.
+1974 -- Vint Cerf y Bob Kahn
+	"A protocol for Pocket Network Interconnection" TCP
+1978 -- TCP-IP
+1980 -- Tim Berners-Lee
+	ENQUIRE.- Permite generar enlaces entre nodos arbitrarios. 
+	Cada nodo posee un titulo, tipo y una lista de enlaces
+	tipados bidireccionales.
+1984 -- Paul Mokcapetris
+	Introduce el Sistema de Nombres de Dominio (DNS).
+1989 -- Tim Berners-Lee
+	"Information Management: A Proposal"
+1990 -- Tim Berners-Lee y Robert Cailliau
+	Reformulacion
+1991 -- Tim Berners-Lee
+	Se crean los elementos necesarios para desmostrar el 
+	funcionamiento de su planteamiento:
+	- Navegador Web
+	- Servidor Web (HTTPD)
+	- Documentos o paginas Web (HTML)
+1993 -- CERN declara que la tecnologia de la World Wide Web sera de uso
+	libre para todos.
+	NSCA desarrolla Mosaic, un navegador grafico que permite explorar
+	internet mediante clics del raton.
+1994 -- Se funda la World Wide Web Consortium (W3C) en colaboracion
+	con el MIT y el CERN
+
+		Conceptos Generales
+
+W3C es una comunidad internacional que desarrolla estandares, colabora
+con varias empresas y organizaciones importantes como Apple, Adobe, etc.
+
+Internet es un conjunto descentralizado de redes de comunicacion 
+interconectadas que utilizan la familia de protocolos estandar.
+
+Web es un espacio de informacion donde los elementos de interes, 
+denominados como recursos, se identifican.
+
+Internet es una combinacion de hardware.
