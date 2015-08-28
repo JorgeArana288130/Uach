@@ -85,3 +85,57 @@ Web es un espacio de informacion donde los elementos de interes,
 denominados como recursos, se identifican.
 
 Internet es una combinacion de hardware.
+
+HTML.- Creado en 1986 por el fisico nuclear Tim Berners-Lee, tomando como
+referencia 2 herramientas pre-existentes: el concepto de hipertexto, el 
+cual permite conectar 2 elementos entre si y el SGML, el cual sirve para 
+colocar etiquetaso marcas en un texto que indique como debe verse.
+
+HMTL no es propiamente un lenguaje de programacion como java o C++
+sino un sistema de etiquetas.
+
+HTML no presenta ningun compilador, por lo tanto, algun error de sintaxis
+que se presente no sera detectado como tal y el documento sera interpretado
+como el navegadorlo entienda.
+
+El entorno de trabajo para HTML es simplemente un procesador de texto.
+
+El comnjunt de etiquetas creadas, deben ser guardadas con la extension
+.htm o .html.
+
+HTML es un lenguaje para describir paginas web.
+	- HTML significa HyperText Markup Languaje.
+	- HTML es un lenguaje de marcado.
+	- In lenguaje de marcado es un conjunto de etiquetas
+	  de marcado.
+	-Las etiquetas de marcado describen el contenido del documento.
+	-Los documentos HTML contienen etiquetas HTML y txto
+	 plano o sin formato.
+	-Los documentos HTML tambien son llamados paginas web.
+
+			Etiquetas HTML
+
+Las etiquetas de marcado son usualmente llamadas etiquetas HTML.
+	-Las etiquetas HTML son palabras clave (nombre de etiqueta)
+	 rodeadas por corchetes angulares "<>", como por ejemplo 
+	 "<html>".
+	-Las etiquetas HTML generalmente vienen en pares como 
+	 <b> y </b>.
+	-La primer etiqueta de un par es la etiqueta inicial, 
+	 y la segunda es la etiqueta final.
+	-La etiqueta final es escrita de manera similar a la
+	 etiqueta inicial, solo que esta lleva una diagonal antes
+	 del nombre de la etiqueta.
+	-Las etiquetas inicial y final, tambien son llamadas
+	 etiquetas de apertura y etiqueta de cierre respectivamente.
+
+ 	 <etiqueta>Contenido</etiqueta>
+
+			Elementos HTML
+
+Un elemento HTML es todo entre la etiqueta de apertura y de cierre, 
+incluyendo las etiquetas mismas asi como el contenido.
+
+<p>Esto es un parrafo</p>
+
+
