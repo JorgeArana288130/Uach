@@ -1,0 +1,44 @@
+
+							Bases de Datos
+
+Servidor Oracle
+
+Usuario: jsbdgmxx
+
+Contraseña: jsbdgmxx
+
+xx: numero de lista
+
+Servicio: Oralcle11g
+
+IP: 148.229.22.3
+
+Puerto:1521
+
+Hostname:orcl
+
+
+		Introducion
+
+Operaciones basicas
+
+- Proyeccion
+
+	* Select c1, c2 from t1 where c1="X";  //En esta declaracion la parte "Where ..." es la parte selecion
+
+- Seleccion
+
+- Join
+
+
+
+
+select deptno, job, count(*)
+from emp
+group by deptno, job //agrupa
+order by deptno, job //ordena
+
+
+having es lo mismo que where pero para grupos y va declarada despues del group by.
+
+
