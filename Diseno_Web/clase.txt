@@ -139,3 +139,31 @@ incluyendo las etiquetas mismas asi como el contenido.
 <p>Esto es un parrafo</p>
 
 
+	Atributos HTML
+
+Los atributos proveen informacion adicional sobre los elementos
+HTML.
+
+	·Los elementos HTML pueden contener atributos.
+	·Los atributos proporcionan mayor detalle sobre
+	 el elemento.
+	·Los atributos siempre se especifican con una 
+	 etiqueta de apertura.
+	·Los atributos vienen en pares de nombre/valor
+	 como: nombre="valor".
+
+	Atributos generales
+
+	·id: identificador unico.
+	·class: identificador grupal.
+	·title: mostrar info o descripcion de un elemento.
+	·style: indica el estilo del elemento. 
+
+	Comentarios en html
+
+En ocasiones, es necesario indicar dentro del codigo, ciertos 
+comentarios o informacion adicional, que no necesariamente
+debe ser visible.
+
+en HTML esto se logra mediante:
+	<!--Esto es un comentario-->

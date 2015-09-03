@@ -42,3 +42,8 @@ order by deptno, job //ordena
 having es lo mismo que where pero para grupos y va declarada despues del group by.
 
 
+nombre coneccion fing
+ usuario hr
+password hr
+nombre del host localhost
+puerto 1521
